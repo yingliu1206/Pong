@@ -4,7 +4,7 @@ Welcome to the Pong Game project! This game is a fun implementation of the class
 
 ## Overview
 
-This project utilizes Python's object-oriented programming features, including classes and class inheritance. It showcases basic game mechanics, scoring, and player interaction.
+This project leverages Python's object-oriented programming features, such as classes, inheritance, and the turtle module, to demonstrate basic game mechanics, scoring, and player interaction.
 
 ## Getting Started
 
